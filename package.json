@@ -10,8 +10,8 @@
         "type": "git",
         "url": "git+https://github.com/Abbas-Whoami/BankingSystem.git"
     },
-    "author": "mablds",
-    "license": "ISC",
+    "author": "Mohamed Abbas M",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/Abbas-Whoami/BankingSystem/issues"
     },
