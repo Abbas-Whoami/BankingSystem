@@ -1,7 +1,15 @@
 # Bank System Simulator
 
-Practicing MongoDB + Nodejs API using a simple bank systems. 
+Practicing MongoDB + Nodejs API for BankAPIAssesment
 
+# Please import the postman collection in your postman. it will help full to run this code.
+``` https://www.getpostman.com/collections/f436aed161841972446b ```
+
+# MongoDB 
+
+MongoDB I"ve already connect with cloud dB. 
+``` mongodb+srv://<>:<>@cluster0.typoy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority ```
+I already connected so just you can start npm start
 
 ## Installation
 
@@ -127,4 +135,9 @@ Body: {
     "account": 0000,
 }
 ```
+
+
+### Thanks & Regards
+### Mohamed Abbas M
+### Full Stack Developer
 ___
