@@ -1,7 +1,7 @@
 {
     "name": "BankAPIAssesment",
     "version": "1.0.0",
-    "description": "Practicing MongoDB + Nodejs API using a simple bank systems.",
+    "description": "Assesment for bankapi system",
     "main": "app.js",
     "scripts": {
         "start": "nodemon app.js"

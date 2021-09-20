@@ -8,7 +8,7 @@ Practicing MongoDB + Nodejs API for BankAPIAssesment
 # MongoDB 
 
 MongoDB I"ve already connect with cloud dB. 
-``` mongodb+srv://<>:<>@cluster0.typoy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority ```
+``` mongodb+srv://abbas:Abbas@22@cluster0.typoy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority ```
 I already connected so just you can start npm start
 
 ## Installation
