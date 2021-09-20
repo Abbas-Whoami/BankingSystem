@@ -1,4 +1,4 @@
-# Bank System Simulator
+# BankAPIAssesment
 
 Practicing MongoDB + Nodejs API for BankAPIAssesment
 
